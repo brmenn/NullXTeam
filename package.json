@@ -1,0 +1,18 @@
+{
+  "name": "ddos-whatsapp",
+  "version": "1.0.0",
+  "main": "ddos-wa.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "NullXTeam",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:VampirePrivate/VampBaileys",
+    "axios": "^1.8.4",
+    "pino": "^9.6.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
